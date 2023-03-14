@@ -1,4 +1,4 @@
-[
+{"auth":[
     {
       "email": "niko@gg.com",
       "password": "123456"
@@ -12,3 +12,4 @@
       "password": "123456"
     }
   ]
+}
